@@ -1,4 +1,4 @@
 # Dashboard roadmap
-- [ ] Build dark monitoring dashboard and configuration.
-- [ ] Implement simulated fault, recovery, reset, logs, and guardrails.
-- [ ] Verify recovery flow and layout.
+- [x] Build dark monitoring dashboard and configuration.
+- [x] Implement simulated fault, recovery, reset, logs, and guardrails.
+- [x] Verify recovery flow and layout.
